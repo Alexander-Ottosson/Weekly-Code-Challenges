@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69dd211b-d46a-4b3a-af73-cb57f8fa22d9" name="Changes" comment="Made changes to workspace" />
+    <list default="true" id="69dd211b-d46a-4b3a-af73-cb57f8fa22d9" name="Changes" comment="Created new git repository because last one had some issues, re-adding old projects">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
         <entry key="$PROJECT_DIR$" value="f7d1ac93372e343b020161ee3b914160541106c7" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Az9YsyCGd4GO4esWpJJ3XCG7xT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656011210119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created new git repository because last one had some issues, re-adding old projects">
+      <created>1656432852963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656432852963</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Sherlock Squares Challenge" />
     <MESSAGE value="Made changes to workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made changes to workspace" />
+    <MESSAGE value="Created new git repository because last one had some issues, re-adding old projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new git repository because last one had some issues, re-adding old projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
